@@ -47,4 +47,6 @@ temp/
 .project
 .classpath
 
+#忽略生成的gc.log日志和堆内存dump文件
 heap.*
+gc.log
